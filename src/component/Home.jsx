@@ -20,8 +20,9 @@ const Home = () => {
         <Table>
             <TableHead>
                 <TableRow>
-                    <TableCell style={{color:"purple"}}><b>NAME</b></TableCell>
-                    <TableCell style={{color:"purple"}}><b>GRADE</b></TableCell>
+                    
+                    <TableCell style={{color:"purple"}}><b>ID</b></TableCell>
+                    <TableCell style={{color:"purple"}}><b>TITLE</b></TableCell>
 
 
                 </TableRow>
